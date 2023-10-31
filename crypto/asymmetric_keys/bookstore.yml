@@ -3,7 +3,7 @@ info:
   title: Bookstore API
   version: 1.0.0
 servers:
-  - url: 'http://api.example.com/v7'
+  - url: 'http://api.example.com/v8'
 paths:
   /books:
     get:
