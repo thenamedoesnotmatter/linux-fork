@@ -3,11 +3,11 @@ info:
   title: Bookstore API
   version: 1.0.0
 servers:
-  - url: 'http://api.example.com/v3'
+  - url: 'http://api.example.com/v55'
 paths:
   /books:
     get:
-      summary: List all books!988123123
+      summary: List all books!!!!!123213122
       parameters:
         - in: query
           name: genre
