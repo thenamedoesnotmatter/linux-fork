@@ -7,7 +7,7 @@ servers:
 paths:
   /books:
     get:
-      summary: List all books
+      summary: List all books!
       parameters:
         - in: query
           name: genre
